@@ -17,10 +17,10 @@ The system uses shared encoders (e.g., BERT, RoBERTa) with task-specific output 
 
 ## Technologies Used
 
-- Python 3.x
+- Python
 - PyTorch
 - Hugging Face Transformers
-- Sentence-BERT
+- BERT/BART/T5
 - Scikit-learn
 - Jupyter Notebook
 - Google Colab or Kaggle for GPU training
